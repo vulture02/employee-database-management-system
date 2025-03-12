@@ -1,7 +1,4 @@
 Employee Database Management System
-
-
-
 📌 Overview
 The Employee Database Management System is a Java-based application that allows organizations to manage employee records efficiently. It provides functionalities such as adding, updating, deleting, and searching employee details using a MySQL database.
 
